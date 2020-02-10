@@ -1,0 +1,31 @@
+body {
+  font-family: 'Open sans';
+}
+
+/* Navbar */
+.bg-navbar {
+  background-color: #0a616a
+}
+
+.navbar_links:hover {
+  background-color: #0c5258;
+  transition: 0.3s
+}
+
+.router-link-active {
+  background-color: #0c5258;
+}
+
+.t-03s {
+  transition: 0.3s
+}
+
+/* SideBar */
+.bg-sidebar {
+  background-color: #08444b;
+}
+
+.bg-sidebar-links {
+  background-color: #0c5258;
+  color: #fc8181;
+}
